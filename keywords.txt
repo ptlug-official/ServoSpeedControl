@@ -1,0 +1,38 @@
+﻿#######################################
+# Syntax Coloring Map ServoSpeedControl
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ServoSpeedControl	KEYWORD1	ServoSpeedControl
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setMinAngleMicros	KEYWORD2
+getMinAngleMicros	KEYWORD2
+setMaxAngleMicros	KEYWORD2
+getMaxAngleMicros	KEYWORD2
+setGoalAngleMicros	KEYWORD2
+getGoalAngleMicros	KEYWORD2
+setDelayMicros	KEYWORD2
+getDelayMicros	KEYWORD2
+setMinAngle	KEYWORD2
+getMinAngle	KEYWORD2
+setMaxAngle	KEYWORD2   
+getMaxAngle	KEYWORD2
+setGoalAngle	KEYWORD2
+getGoalAngle	KEYWORD2
+setDelay	KEYWORD2
+getDelay	KEYWORD2
+setSpeed	KEYWORD2
+getSpeed	KEYWORD2
+doStep	KEYWORD2
+isInGoal	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
